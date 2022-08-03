@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saran-droid
 - 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...python
-- 📫 How to reach me ...supermansaran@gmail.com
+- 📫 How to reach me supermansaran@gmail.com
 - I just started learning python
 - And i need somebody to help me with learning python
 <!---
